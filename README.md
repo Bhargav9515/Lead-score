@@ -6,9 +6,8 @@ Problem Statement: An education company named X Education sells online courses t
 
 Our Goals of the Case Study:
 
-To build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
-
-To adjust to if the company's requirement changes in the future so you will need to handle these as well.
+1. To build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
+2. To adjust to if the company's requirement changes in the future so you will need to handle these as well.
 
 Our Approach:
 1.	Data Cleaning and Imputing missing values.
